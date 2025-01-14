@@ -8,4 +8,4 @@ grun -c mhddos_proxy
 curl -sOL https://github.com/a075577/mhddos_proxy_android/raw/refs/heads/main/mhddos_proxy.sh
 chmod +x mhddos_proxy mhddos_proxy.sh
 
-echo -e "\n\e[32m ./mhddos_proxy.sh ... 🔥 \e[0m\n"
+echo -e "\n\e[32m ./mhddos_proxy.sh   🔥 \e[0m\n"
