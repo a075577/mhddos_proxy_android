@@ -1,4 +1,4 @@
-# [mhddos_proxy](https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases)
+# [MHDDOS_PROXY](https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases)
 IT Army of Ukraine 🇺🇦
 ### Automaic setup on Android
 **Requires [Termux](https://github.com/termux/termux-app/releases) and root-ed device**
