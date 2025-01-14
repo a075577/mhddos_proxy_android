@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-# wrapper script
+# wrapper script for termux
 TOOL_PATH=$HOME/mhddos_proxy
 
 if [[ ! $(uname -m) = aarch64 ]]; then
