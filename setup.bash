@@ -8,6 +8,6 @@ chmod +x .mhddos_proxy mhddos_proxy.sh
 
 # quick link for Termux Widget
 mkdir -p ~/.shortcuts
-ln -s $PWD/mhddos_proxy.sh ~/.shortcuts/MHDDOS_PROXY
+install -m 0700 $PWD/mhddos_proxy.sh ~/.shortcuts/MHDDOS_PROXY
 
 echo -e "\n\e[32m ./mhddos_proxy.sh   🔥 \e[0m\n"
