@@ -6,4 +6,6 @@ if [[ ! $(uname -m) = aarch64 ]]; then
  EMU=qemu-aarch64
 fi
 
+termux-wake-lock
+
 exec sudo grun -n $EMU $TOOL_PATH $*
